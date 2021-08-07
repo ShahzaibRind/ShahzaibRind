@@ -29,7 +29,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
 
 <br/>
 
@@ -44,9 +43,9 @@
 
 <p align="center">
 <a href="https://www.shahzaibrind.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.shahzaibrind.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/shahzaib-rind-b3976a170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/shahzaib9711/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:shahzaibrind86@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/shahzaib-rind-b3976a170/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shahzaib%20Rind-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/shahzaib9711/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Shahzaib Rind-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:shahzaibrind86@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shahzaibrind86@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [ShahzaibRind](https://github.com/ShahzaibRind)
