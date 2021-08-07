@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Shahzaib%20Rind%20Banner.png">
-
+<!-- <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Shahzaib%20Rind%20Banner.png"> -->
 <h2> Hey there! I'm Shahzaib.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
