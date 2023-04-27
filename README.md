@@ -5,9 +5,9 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at University of Sindh Campus Dadu.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 💼 &nbsp; Working as a FullStack Developer at AIME.
+- 🌱 &nbsp; Learning more about Firebase,React js and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Wordpress Developmenent and Creating Shopify Store as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
